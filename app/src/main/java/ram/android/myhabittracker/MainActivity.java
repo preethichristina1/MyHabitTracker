@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 int habitDuration = Integer.parseInt(habitDurationtxt);
 
                 insertHabit(habitName, habitDuration);
-
+//hello world
             }
 
         });
