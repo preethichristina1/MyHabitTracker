@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyHabitTracker</string>
+    <string name="hobby">ENTER THE HOBBY</string>
+    <string name="time">ENTER THE TIME</string>
+    <string name="button">CREATE</string>
+    <string name="hobby2">ENTER THE ACTIVITY</string>
+    <string name="button2">FIND DURATION</string>
+    <string name="duration">duration</string>
 </resources>
